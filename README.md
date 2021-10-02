@@ -1,7 +1,7 @@
 This repository was created to fulfill the TLS 2021 Programming Task.
 
 # Basic Task Organizer
-This simple C++ code will help you determine which task should you do first. 
+This simple C++ program will help you determine which task should you do first. 
 
 # How To Use
 Just enter the amount of task, task names, their deadlines, and their estimated work time. You can also export it to a text file so you won't forget.
